@@ -2,6 +2,8 @@
 
 #page-landing {
     background: var(--color-primary);
+    width: 100vw;
+    height: 100vh;
 
 }
 
